@@ -10,7 +10,7 @@ body {
 /* continar-img-1 */
 .continar-img-1 {
   width: 1440px;
-  height: 630px;
+  height: 650px;
   margin: 0 auto;
   /* border: 2px solid red; */
   background-image: url(./assets/Hero-bg.png);
@@ -60,4 +60,49 @@ body {
   font-weight: 600;
   padding: 21px 24px 21px 24px;
   border-radius: 5px;
+}
+/* continar-2 start */
+.continar-2 {
+  width: 1140px;
+  height: 1393px;
+  margin: 0 auto;
+  margin-top: 74px;
+  border: 2px solid red;
+}
+.continar-web-dev {
+  width: 946px;
+  height: 1233px;
+  margin: 0 auto;
+  margin-top: 80px;
+  border: 2px solid blue;
+}
+.into-web {
+  width: 852px;
+  height: 113px;
+  margin: 0 auto;
+  border: 2px solid red;
+}
+.into-web h6 {
+  width: 852px;
+  height: 37px;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+  text-align: center;
+}
+.into-web p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 24px;
+}
+.coding-continar-1 {
+  width: 850px;
+  height: 240px;
+  margin: 0 auto;
+  margin-top: 96px;
+  border: 2px solid red;
 }
