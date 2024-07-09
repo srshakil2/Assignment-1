@@ -99,10 +99,44 @@ body {
   text-align: center;
   margin-top: 24px;
 }
+/* coding-continar-1 start */
+
 .coding-continar-1 {
   width: 850px;
   height: 240px;
   margin: 0 auto;
   margin-top: 96px;
   border: 2px solid red;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.coding-continar-1 .text-1 {
+  width: 477px;
+  height: 219px;
+  margin-top: 10.5px;
+  margin-bottom: 10.5px;
+  border: 2px solid green;
+}
+.text-1 .c-pera-1 {
+  color: rgba(13, 19, 33, 0.7);
+  font-family: Azeret Mono;
+  font-size: 19px;
+  font-weight: 700;
+  margin-right: 87px;
+  margin-bottom: 16px;
+}
+.text-1 #btn2 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 12px 20px 12px 20px;
+  border-radius: 3px;
+  margin-top: 44px;
+}
+.coding-continar-1 .img-1 {
+  position: absolute;
+  margin-left: 39%;
 }
