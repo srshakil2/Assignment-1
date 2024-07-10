@@ -140,3 +140,44 @@ body {
   position: absolute;
   margin-left: 39%;
 }
+/* coding-continar-2 is start */
+.coding-continar-2 {
+  width: 850px;
+  height: 240px;
+  margin: 0 auto;
+  margin-top: 125px;
+  border: 2px solid red;
+  display: flex;
+}
+.coding-continar-2 .img-2 {
+  width: 223.2px;
+  height: 208.85px;
+  border: 2px solid green;
+}
+.coding-continar-2 .text-2 {
+  width: 477px;
+  height: 219px;
+  margin-top: 10.5px;
+  margin-bottom: 10.5px;
+  border: 2px solid green;
+}
+.text-2 .c-pera-2 {
+  color: rgba(13, 19, 33, 0.7);
+  font-family: Azeret Mono;
+  font-size: 19px;
+  font-weight: 700;
+  margin-right: 87px;
+  margin-bottom: 16px;
+}
+.text-2 #btn3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 12px 20px 12px 20px;
+  border-radius: 3px;
+  margin-top: 44px;
+}
+.text-2 {
+  margin-left: 48px;
+}
