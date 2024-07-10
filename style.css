@@ -256,3 +256,91 @@ iframe {
   margin-top: 80px;
   margin-left: 33px;
 }
+/* continar-4 */
+.continar-4 {
+  width: 1140px;
+  height: 460px;
+  margin: 0 auto;
+  margin-top: 150px;
+  /* border: 2px solid red;
+} */
+.text-description {
+  width: 852px;
+  height: 113px;
+  margin: 0 auto;
+  margin-bottom: 44px;
+  border: 2px solid black;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+#target {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+}
+.card {
+  width: 1140px;
+  height: 299px;
+  /* border: 2px solid yellowgreen; */
+  display: flex;
+  justify-content: space-between;
+}
+.card-1 {
+  width: 344px;
+  height: 299px;
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+  /* padding: 10px; */
+  border: 2px solid tomato;
+}
+.card-2 {
+  width: 344px;
+  height: 299px;
+  border-radius: 16px;
+  background: rgba(0, 76, 232, 0.05);
+  /* padding: 10px; */
+  border: 2px solid tomato;
+}
+.card-3 {
+  width: 344px;
+  height: 299px;
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+  /* padding: 10px; */
+  border: 2px solid tomato;
+}
+.web-hcj {
+  width: 39.68px;
+  height: 45px;
+  margin-bottom: 24px;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.ph3 {
+  width: 284px;
+  height: 36px;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+  margin-left: 40px;
+  margin-bottom: 8px;
+}
+.ph4 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 24px;
+  margin-left: 40px;
+}
+.btn-55 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 700;
+  margin-left: 40px;
+}
